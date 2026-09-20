@@ -9,3 +9,4 @@ else
     exit 1
 fi
 
+echo "$(date): OK: $URL is available"
